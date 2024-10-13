@@ -1,0 +1,18 @@
+.menu3_1{
+    width: 100%;
+    padding: 20px 0;
+    background-color: yellow;
+    text-align: center;
+    margin-top: 74px;
+    top: 0;
+    left: 0;
+}
+.menu3_1 p{
+    color: rgb(53, 76, 160);
+}
+.menu3_1 p:nth-child(1){
+    font-size: 18px ;
+    font-weight: bolder;
+    
+    /* background-color: rgb(53, 76, 160); */
+}

@@ -1,0 +1,85 @@
+.newstyle{
+    width: 100%;
+    /* background-color: blue; */
+    padding: 10px 70px;
+   
+}
+.newstyle .word p{
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+.newstyle .picmain3 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.newstyle .picmain3 img{
+    width: 230px;
+    height: 400px;
+}
+.newstyle .ullia{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 10px 0;
+}
+.newstyle .ullia a{
+    margin-left: 170px;
+}
+.newstyle .ullia p:nth-child(3){
+    margin-left: 42px;
+}
+.newstyle .ullia p:nth-child(5){
+    margin-left: 44px;
+}
+.newstyle .ullia p:nth-child(7){
+    margin-left: 46px;
+}
+.newstyle .nameullia{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.newstyle .mainSquare{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.newstyle .mainSquare .Square{
+    width: 15px;
+    height: 15px;
+    margin-left: 5px;
+    margin-top: 5px;
+    border: 3px solid gray;
+}
+.newstyle .mainlast{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 0;
+}
+.newstyle .mainlast ul{
+    list-style-type: none;
+}
+.newstyle .mainlast ul li{
+    margin: 10px 0; 
+}
+.newstyle .mainlast ul li a{
+    text-decoration: none;
+    color: white;
+    font-weight: lighter;
+    
+}
+.newstyle .mainlast ul li a i {
+    margin-right: 10px; /* Adjust the space between the icon and the text */
+}
+.newstyle .mainlast p{
+    color: white;
+}
+.newstyle .mainlast .tt4 img{
+    width: 200px;
+    height: 50px;
+    margin: 10px 0; 
+}
