@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.menu3{
+    width: 100%;
+    background-color: white;
+    padding: 10px 150px;
+    display: flex; 
+    justify-content: space-between;
+    align-items: center;
+    top: 0;
+    left: 0;
+    position: fixed;
+}
+.menu3 .lasthead{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+.menu3 .searc{
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid black;
+}
+.menu3 .searc input{
+    padding: 3px 5px;
+    background-color: unset;
+    border: none;
+    outline: none;
+}
+.menu3 .searc input::placeholder{
+    color: black;
+}
